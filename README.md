@@ -1,7 +1,7 @@
 # Prazer, Sou a Lara 𐙚
 
 ---
-## Um pouco sobre mim:
+## 🔍︎​ Um pouco sobre mim:
 
 Atualmente, em processo de ensino como DEV, formada em ADOBE e modelagem 3D. Gosto muito de aprender coisas novas e me aprofundar em assuntos desconhecidos.
 
@@ -24,7 +24,7 @@ Atualmente, em processo de ensino como DEV, formada em ADOBE e modelagem 3D. Gos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="60" alt="unity logo"  />
 </div>
 
-## Contatos:
+## 🖂 Contatos:
 
 ###
 
