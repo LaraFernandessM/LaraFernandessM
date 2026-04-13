@@ -1,4 +1,4 @@
-# Prazer, Sou a Lara 𐙚
+
 <img width="2000" height="667" alt="Wellcome to Lara’s Github" src="https://github.com/user-attachments/assets/cfb990bf-ea2a-4593-be00-5c29b5766603" />
 
 ---
