@@ -1,3 +1,9 @@
+<br clear="both">
+
+<h2 align="center">wellcome to Lara github !</h2>
+
+###
+
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/5e/9e/55/5e9e55d066a382dbffe2e7551ed383dc.gif"  />
 </div>
@@ -6,7 +12,7 @@
 
 <br clear="both">
 
-<h6 align="center">Conecte-se comigo !</h6>
+<h4 align="center">Conecte-se comigo !</h4>
 
 ###
 
@@ -21,11 +27,7 @@
 
 ###
 
----
-
-###
-
-<h3 align="center">ʚ  Sobre mim  ɞ</h3>
+<h2 align="center">ʚ  Sobre mim  ɞ</h2>
 
 ###
 
@@ -38,8 +40,6 @@
 </div>
 
 ###
-
----
 
 <p align="center">tecnologias !</p>
 
@@ -83,6 +83,12 @@
   <img src="https://skillicons.dev/icons?i=java" height="19" alt="java logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=linkedin" height="19" alt="linkedin logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LaraFernandessM.LaraFernandessM&left_color=lightpink&right_color=lightpink"  />
 </div>
 
 ###
