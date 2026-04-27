@@ -1,5 +1,4 @@
 
-<img width="2000" height="667" alt="Wellcome to Lara’s Github" src="https://github.com/user-attachments/assets/527f88f4-eb98-4126-b1e0-91dd7ef9ad34" />
 
 ###
 
